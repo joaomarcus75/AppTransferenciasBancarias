@@ -135,7 +135,8 @@ namespace DIO.bank
 
         string opcaoUsuario = Console.ReadLine().ToUpper();
         Console.WriteLine();
-        return opcaoUsuario;   
+        return opcaoUsuario; 
+        //test  
 
         }
     }
